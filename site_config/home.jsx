@@ -3,13 +3,13 @@ import React from 'react';
 export default {
   'zh-cn': {
     brand: {
-      brandName: '开源产品品牌名称',
-      briefIntroduction: '关于开源产品的简单介绍',
+      brandName: 'Dubbo Home',
+      briefIntroduction: '专注Dubbo、Java、SpirngBoot、SpringCloud、微服务、Docker、K8s等技术领域，还有职场心得、生活感悟、面经、资源等的分享，每天八点 不见不散',
       buttons: [
         {
-          text: '立即开始',
+          text: '加群',
           link: '/zh-cn/docs/demo1.html',
-          type: 'primary',
+          type: 'normal',
         },
         {
           text: '查看Github',
@@ -19,8 +19,8 @@ export default {
       ],
     },
     introduction: {
-      title: '开源产品的介绍',
-      desc: '开源产品的简单介绍，提供一些该产品的优点、特性描述等',
+      title: 'Dubbo Home',
+      desc: '专注Dubbo、Java、SpirngBoot、SpringCloud、微服务、Docker、K8s等技术领域，还有职场心得、生活感悟、面经、资源等的分享，每天八点 不见不散',
       img: '/img/architecture.png',
     },
     features: {
